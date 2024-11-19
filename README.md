@@ -25,4 +25,4 @@ To run this project, you'll need Python installed on your machine. You can downl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://github.com/NimaaaAI/sms-project.git
